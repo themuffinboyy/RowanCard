@@ -1,0 +1,56 @@
+body {
+	background-image: url(../images/background.jpeg);
+	background-repeat: repeat;
+}
+
+#headWrapper{
+	background-color:#ffd34f;border-bottom:2px solid #FFF;height:3em;min-height:50px;
+}
+
+#rowanlogo{
+	float:left;position:absolute;padding: 8px 0;margin-left:0%;
+}
+
+#seek{
+	float:right;position:relative;padding-top:1em;padding-right:13%;margin:0;
+}
+
+#seek input[type=text]{
+	width:12em;
+}
+
+#searchtype{
+	width:100px;
+}
+
+#seek input[type=search]{
+	width:12em;
+}
+
+#bannerLinks{
+	margin:0;background-color:#5b1400;color:#FFF;height:1.5em;padding-right:13%;font-size:0.6em;text-align:right; clear:right;
+}
+
+#bannerLinks li{
+	list-style:none;display:inline;padding-left:0.5em;padding-right:0.5em;
+}
+
+#bannerLinks a:link{
+	color:#FFF;background-color:#5b1400;text-decoration:none;
+}
+
+#bannerLinks a:visited{
+	color:#FFF;background-color:#5b1400;text-decoration:none;
+}
+
+#bannerLinks a:hover{
+	color:#5b1400;background-color:#FF9;text-decoration:none;
+}
+
+#bannerLinks a:active{
+	color:#5b1400;background-color:#FF9;text-decoration:none;
+}
+
+#bannerLinks a:focus{
+	color:#5b1400;background-color:#FF9;text-decoration:none;
+}

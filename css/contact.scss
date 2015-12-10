@@ -1,0 +1,43 @@
+#contact_page {
+	input {
+		width: 100%;
+		margin-bottom: 10px;
+
+		&.button {
+			width: initial;
+			margin: 0 auto;
+			display: block;
+		}
+	}
+
+	.alert-box {
+	    &.hidden {
+	      display: none;
+	    }
+
+	    &.true {
+	      display: block;
+	    }
+	}
+
+	.panel {
+	    textarea {
+	      resize: none;
+	    }
+  }
+
+	@media only screen and (max-width: 40em) {
+		.large-9 {
+			text-align: center;
+		}
+	}
+
+	.row {
+		max-width: 1190px;
+		margin-top: 15px;
+	}
+
+	.row .row {
+		margin: 0;
+	}
+}

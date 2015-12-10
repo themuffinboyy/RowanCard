@@ -1,0 +1,61 @@
+#become_page {
+	input {
+		width: 100%;
+
+		&[type="text"] {
+			width: 62%;
+			float: right;
+			margin-left: 15px;
+		}
+
+		&[type="submit"] {
+			width: 50%;
+			display: block;
+			margin: auto;
+		}
+
+		&[type="checkbox"] {
+			width: 62%;
+			margin-left: 15px;
+			margin-right: 0;
+		}
+
+		&[name="food"] {
+			width: 30%;
+		}
+	}
+
+	select {
+		width: 45%;
+	}
+
+	label {
+		text-align: right;
+		margin-bottom: 10px;
+	}
+
+	.alert-box {
+	    &.hidden {
+	      display: none;
+	    }
+
+	    &.true {
+	      display: block;
+	    }
+	}
+
+	@media only screen and (max-width: 40em) {
+		.large-9 {
+			text-align: center;
+		}
+	}
+
+	.row {
+		max-width: 1190px;
+		margin-top: 15px;
+	}
+
+	.row .row {
+		margin: 0;
+	}
+}

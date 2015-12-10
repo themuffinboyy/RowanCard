@@ -1,0 +1,23 @@
+#contact_page input {
+  width: 100%;
+  margin-bottom: 10px; }
+  #contact_page input.button {
+    width: initial;
+    margin: 0 auto;
+    display: block; }
+#contact_page .alert-box.hidden {
+  display: none; }
+#contact_page .alert-box.true {
+  display: block; }
+#contact_page .panel textarea {
+  resize: none; }
+@media only screen and (max-width: 40em) {
+  #contact_page .large-9 {
+    text-align: center; } }
+#contact_page .row {
+  max-width: 1190px;
+  margin-top: 15px; }
+#contact_page .row .row {
+  margin: 0; }
+
+/*# sourceMappingURL=contact.css.map */

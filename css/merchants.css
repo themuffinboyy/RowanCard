@@ -1,0 +1,13 @@
+#merchants_page .row {
+  max-width: 1190px;
+  margin-top: 15px; }
+#merchants_page dd {
+  margin-left: 0; }
+@media only screen and (max-width: 40em) {
+  #merchants_page .large-9 {
+    text-align: center; } }
+@media only screen and (min-width: 64.0625em) {
+  #merchants_page .picture {
+    width: 13.66667%; } }
+
+/*# sourceMappingURL=merchants.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACC,iBAAK;EACJ,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,MAAM",
+"sources": ["freeze.scss"],
+"names": [],
+"file": "freeze.css"
+}

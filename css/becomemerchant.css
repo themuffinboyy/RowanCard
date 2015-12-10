@@ -1,0 +1,35 @@
+#become_page input {
+  width: 100%; }
+  #become_page input[type="text"] {
+    width: 62%;
+    float: right;
+    margin-left: 15px; }
+  #become_page input[type="submit"] {
+    width: 50%;
+    display: block;
+    margin: auto; }
+  #become_page input[type="checkbox"] {
+    width: 62%;
+    margin-left: 15px;
+    margin-right: 0; }
+  #become_page input[name="food"] {
+    width: 30%; }
+#become_page select {
+  width: 45%; }
+#become_page label {
+  text-align: right;
+  margin-bottom: 10px; }
+#become_page .alert-box.hidden {
+  display: none; }
+#become_page .alert-box.true {
+  display: block; }
+@media only screen and (max-width: 40em) {
+  #become_page .large-9 {
+    text-align: center; } }
+#become_page .row {
+  max-width: 1190px;
+  margin-top: 15px; }
+#become_page .row .row {
+  margin: 0; }
+
+/*# sourceMappingURL=becomemerchant.css.map */

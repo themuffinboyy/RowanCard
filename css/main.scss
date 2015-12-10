@@ -1,0 +1,72 @@
+// Stuff that should be on every page of the website.
+$rowan_gold: #FFCA05;
+$rowan_brown: #5A180A;
+$rowan_silver: rgba(153, 153, 153, 0.6);
+$spotlight_blue: #5CADD2;
+$trivia_orange: #EB8528;
+
+@mixin small() {
+	@media only screen and (max-width: 40em) {
+		@content;
+	}
+}
+
+@mixin medium-up {
+	@media only screen and (min-width: 40.0625em) {
+		@content;
+	}
+}
+
+@mixin medium-down() {
+	@media only screen and (max-width: 40.0625em) {
+		@content;
+	}
+}
+
+@mixin large-up() {
+	@media only screen and (min-width: 64.0625em) {
+		@content;
+	}
+}
+
+@mixin large-down() {
+	@media only screen and (max-width: 64.0625em) {
+		@content;
+	}
+}
+
+body{
+    background-image: url(../images/background.jpeg);
+    background-repeat: repeat;
+ }
+
+// Slider CSS
+.orbit-container {
+	padding: 0;
+
+	.orbit-slide-number {
+	  display: none;
+	}
+
+	.orbit-bullets-container {
+	  display: none;
+	}
+
+	.orbit-prev {
+	  height: 100%;
+	  margin-top: 0;
+	  height: 100%;
+	  top: 0;
+	}
+
+	.orbit-next {
+	  height: 100%;
+	  margin-top: 0;
+	  height: 100%;
+	  top: 0;
+	}
+
+	.orbit-timer {
+	  display: none;
+	}
+}

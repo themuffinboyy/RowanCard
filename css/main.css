@@ -1,0 +1,24 @@
+body {
+  background-image: url(../images/background.jpeg);
+  background-repeat: repeat; }
+
+.orbit-container {
+  padding: 0; }
+  .orbit-container .orbit-slide-number {
+    display: none; }
+  .orbit-container .orbit-bullets-container {
+    display: none; }
+  .orbit-container .orbit-prev {
+    height: 100%;
+    margin-top: 0;
+    height: 100%;
+    top: 0; }
+  .orbit-container .orbit-next {
+    height: 100%;
+    margin-top: 0;
+    height: 100%;
+    top: 0; }
+  .orbit-container .orbit-timer {
+    display: none; }
+
+/*# sourceMappingURL=main.css.map */
