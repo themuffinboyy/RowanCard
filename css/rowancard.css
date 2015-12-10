@@ -45,6 +45,8 @@
 @media only screen and (max-width: 40em) {
   #rowancard_page .logo {
     margin-bottom: 15px; }
+  #rowancard_page .tiny {
+    font-size: 1.5rem; }
   #rowancard_page img {
     height: inherit; } }
 

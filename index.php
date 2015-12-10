@@ -54,7 +54,7 @@
         <a href="https://id.rowan.edu/" class="button" target="_blank">Find your ISO #</a>
       </div>
       <div class="large-4 columns end">
-        <button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown">Where to use card</button><br>
+        <button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown tiny">Where to use card</button><br>
         <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
           <li><a href="oncampus_merchants.php">On-campus</a></li>
           <li><a href="glassboro_merchants.php">Glassboro</a></li>
@@ -78,7 +78,7 @@
         <a href="faqs.php" class="button" target="_blank">FAQs</a>
       </div>
       <div class="large-4 columns push_right">
-        <a href="becomemerchant.php" class="button" target="_blank">Become a merchant</a>
+        <a href="becomemerchant.php" class="button tiny" target="_blank">Become a merchant</a>
       </div>
       <div class="large-4 columns end">
         <a href="account.php" class="button" target="_blank">Account info</a>
