@@ -212,7 +212,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.thecomicbookstore.net/" target="_blank"><img src="http://www.thecomicbookstore.net/images/logo.png"></a>
+              <a class="th" href="http://www.thecomicbookstore.net/" target="_blank"><img src="images/merchants/comic.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>The Comic Book Store</strong><br>
@@ -222,7 +222,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.marriott.com/hotels/travel/phlgb-courtyard-glassboro-rowan-university/" target="_blank"><img src="http://images.visitknoxville.com/D3000/d3000/10448_793.jpg"></a>
+              <a class="th" href="http://www.marriott.com/hotels/travel/phlgb-courtyard-glassboro-rowan-university/" target="_blank"><img src="images/merchants/courtyard.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Courtyard By Marriott</strong><br>
@@ -235,7 +235,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.cvs.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/514136773920710656/rssMCPXC_400x400.png"></a>
+              <a class="th" href="http://www.cvs.com/" target="_blank"><img src="images/merchants/cvs.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>CVS/Pharmacy</strong><br>
@@ -246,7 +246,7 @@
           
             <div class="large-2 medium-2 columns picture">
               <a name="D"></a>
-              <a class="th" href="https://www.dominos.com/en/" target="_blank"><img src="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0017/0103/brand.gif?itok=4RtFw22X"></a>
+              <a class="th" href="https://www.dominos.com/en/" target="_blank"><img src="images/merchants/dominos.gif"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Domino's Pizza</strong><br>
@@ -256,7 +256,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="https://www.dunkindonuts.com/dunkindonuts/en.html" target="_blank"><img src="http://logodatabases.com/wp-content/uploads/2012/02/dunkin-donuts-logo-wallpaper.jpg"></a>
+              <a class="th" href="https://www.dunkindonuts.com/dunkindonuts/en.html" target="_blank"><img src="images/merchants/dunkin.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Dunkin Donuts</strong><br>
@@ -270,7 +270,7 @@
           <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="E"></a>
-              <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/379791_265653203501747_513329399_n.jpg?oh=9b1b97b004515c84ed62dd90556dc90d&oe=568F13C4">
+              <img class="th" src="images/merchants/expo.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Expo Nails</strong><br>
@@ -280,7 +280,7 @@
             </div>
           
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/1964869_301657936666562_3869115845604941205_n.jpg?oh=32e0832c735389f92ed0ac51da4b5616&oe=568CCFE5">
+              <img class="th" src="images/merchants/extravagant_cuts.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Extravagant Cuts & Styles Barbershop</strong><br>
@@ -291,7 +291,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="F"></a>
-              <a class="th" href="http://www.fitnessfuels.net/" target="_blank"><img src="https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11188240_707957789314060_4057654899962798032_n.jpg?oh=17de256cf9102d46bac5d2beb52864c3&oe=56A5149D"></a>
+              <a class="th" href="http://www.fitnessfuels.net/" target="_blank"><img src="images/merchants/fitness_fuels.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Fitness Fuels</strong><br>
@@ -304,7 +304,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.foreveryoungemporium.com/" target="_blank"><img src="https://nickclark1024.files.wordpress.com/2013/10/photo-2.jpg"></a>
+              <a class="th" href="http://www.foreveryoungemporium.com/" target="_blank"><img src="images/merchants/forever_young.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Forever Young Emporium</strong><br>
@@ -314,7 +314,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.friendlys.com/" target="_blank"><img src="http://www.easterseals.com/shared-components/image-library/17737-1.gif"></a>
+              <a class="th" href="http://www.friendlys.com/" target="_blank"><img src="images/merchants/friendly's.gif"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Friendly's</strong><br>
@@ -325,7 +325,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="G"></a>
-              <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/303689_484516974898924_669046112_n.jpg?oh=46d308f116d3939036a6fb8220fa6be0&oe=568EFCBF">
+              <img class="th" src="images/merchants/gino's.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Gino's Pizzeria</strong><br>
@@ -338,7 +338,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="https://irs1.4sqi.net/img/general/width960/4002094_EcVCl7qWQaBgs8WT8tOWquj5qU8B55zGgVKw-aqC0sU.jpg">
+              <img class="th" src="images/merchants/giofano's.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>GioFano's Italian Bistro</strong><br>
@@ -348,7 +348,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://glassborobowlnj.com/" target="_blank"><img src="http://s3-media2.fl.yelpcdn.com/bphoto/S6AsVmHVj6ZwXwuk3SxiJw/o.jpg"></a>
+              <a class="th" href="http://glassborobowlnj.com/" target="_blank"><img src="images/merchants/glassboro_bowling.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Glassboro Bowling Center</strong><br>
@@ -358,7 +358,7 @@
             </div>
 
              <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.glassborothriftvillage.com/" target="_blank"><img src="https://spiritofglassboro.files.wordpress.com/2012/10/gbtv2.jpg"></a>
+              <a class="th" href="http://www.glassborothriftvillage.com/" target="_blank"><img src="images/merchants/thrift_village.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Glassboro Thrift Village</strong><br>
@@ -381,7 +381,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://greenzebranj.com/" target="_blank"><img src="http://greenzebranj.com/images/6a01ffd27554bd5cf1924a7504aae44a.jpg"></a>
+              <a class="th" href="http://greenzebranj.com/" target="_blank"><img src="images/merchants/green_zebra.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Green Zebra</strong><br>
@@ -392,7 +392,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="H"></a>
-              <img class="th" src="http://media.merchantcircle.com/10934226/Picture%20245_full.jpeg">
+              <img class="th" src="images/merchants/hair_2_there.jpeg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Hair 2 There</strong><br>
@@ -405,7 +405,7 @@
           
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.handandstoneglassboro.com" target="_blank"><img src="https://media.glassdoor.com/sqll/313739/hand-and-stone-spa-squarelogo.png"></a>
+              <a class="th" href="http://www.handandstoneglassboro.com" target="_blank"><img src="images/merchants/hand_and_stone.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Hand & Stone Spa</strong><br>
@@ -415,7 +415,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.heritages.com/" target="_blank"><img src="http://www.helponegethired.org/wp-content/uploads/2014/09/Heritages-150x150.jpg"></a>
+              <a class="th" href="http://www.heritages.com/" target="_blank"><img src="images/merchants/heritage's.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Heritage's Dairy</strong><br>
@@ -474,7 +474,7 @@
           <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="K"></a>
-              <a class="th" href="http://www.kmart.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kmart_logo.svg/2000px-Kmart_logo.svg.png"></a>
+              <a class="th" href="http://www.kmart.com/" target="_blank"><img src="images/merchants/kmart.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>K-Mart</strong><br>
@@ -485,7 +485,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="L"></a>
-              <a class="th" href="http://www.landmarkamericana.com/" target="_blank"><img src="https://phillysphavorites.files.wordpress.com/2012/02/img_1074.jpg"></a>
+              <a class="th" href="http://www.landmarkamericana.com/" target="_blank"><img src="images/merchants/landmark.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Landmark Americana</strong><br>
@@ -495,7 +495,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="https://www.littlebeefsonline.com/" target="_blank"><img src="https://nebula.wsimg.com/b3dad21eba3944784c828dbc5fecccca?AccessKeyId=2E51EEE9FCAD7AF47022&disposition=0&alloworigin=1"></a>
+              <a class="th" href="https://www.littlebeefsonline.com/" target="_blank"><img src="images/merchants/little_beef's.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Little Beef's</strong><br>
@@ -508,7 +508,7 @@
           
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="http://product-images.imshopping.com/nimblebuy/sicily-pizza-169252-regular.jpg">
+              <img class="th" src="images/merchants/little_sicily.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Little Sicily Pizza</strong><br>
@@ -519,7 +519,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="M"></a>
-              <a class="th" href="http://www.mcdonalds.com/us/en/home.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mcdonalds-90s-logo.svg/2000px-Mcdonalds-90s-logo.svg.png"></a>
+              <a class="th" href="http://www.mcdonalds.com/us/en/home.html" target="_blank"><img src="images/merchants/mcdonald's.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>McDonald's</strong><br>
@@ -529,7 +529,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.meineke.com/" target="_blank"><img src="https://lh3.ggpht.com/Z-r56_Ib7upCVlRVIZA043S8ny9yA6TUKdyb7N7qJa2yaIlDStkO5RE2YQcZgRgW1w=w300"></a>
+              <a class="th" href="http://www.meineke.com/" target="_blank"><img src="images/merchants/meineke.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Meineke Complete Car Care</strong><br>
@@ -542,7 +542,7 @@
           
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://minglokpitman.com/" target="_blank"><img src="http://gis.rowan.edu/projects/rowancard/photos/Ming_Lok.jpg"></a>
+              <a class="th" href="http://minglokpitman.com/" target="_blank"><img src="images/merchants/ming_lok.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Ming Lok</strong><br>
@@ -553,7 +553,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="N"></a>
-              <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/1918245_334520130996_718189_n.jpg?oh=fe5abdd30bb70867a226374c3e7cad11&oe=56892A94">
+              <img class="th" src="images/merchants/nailzclub.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Nailzclub</strong><br>
@@ -563,7 +563,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.nyitaliandelinj.com/" target="_blank"><img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/299386_203213229745891_211906111_n.jpg?oh=b0525c107b2ebebdc15ffdd78fb488b6&oe=56A492EA"></a>
+              <a class="th" href="http://www.nyitaliandelinj.com/" target="_blank"><img src="images/merchants/new_york_italian.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>New York Italian Deli</strong><br>
@@ -576,7 +576,7 @@
           
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://nickspizzaonline.com/" target="_blank"><img src="http://nickspizzaonline.com/img/logo.gif"></a>
+              <a class="th" href="http://nickspizzaonline.com/" target="_blank"><img src="images/merchants/nick's.gif"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Nick's Pizzeria</strong><br>
@@ -598,7 +598,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="P"></a>
-              <a class="th" href="https://www.papajohns.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/PapaJohns.svg/1280px-PapaJohns.svg.png"></a>
+              <a class="th" href="https://www.papajohns.com/" target="_blank"><img src="images/merchants/papa_johns.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Papa John's Pizza</strong><br>
@@ -611,7 +611,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.pbsdiner.com/" target="_blank"><img src="https://dmqhjhh1emncv.cloudfront.net/restaurant-logos/8856/large-0084f1fb2a0898f1d66b6c26c6a06429.jpg?1395235088"></a>
+              <a class="th" href="http://www.pbsdiner.com/" target="_blank"><img src="images/merchants/pb's.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>PB'S Diner & Tap Room</strong><br>
@@ -621,7 +621,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.pekingbuffetnj.com/" target="_blank"><img src="http://media-cdn.tripadvisor.com/media/photo-s/07/8f/21/ff/peking-buffet.jpg"></a>
+              <a class="th" href="http://www.pekingbuffetnj.com/" target="_blank"><img src="images/merchants/peking.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Peking Buffet</strong><br>
@@ -631,7 +631,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.pepboys.com/" target="_blank"><img src="http://vertassets.blob.core.windows.net/image/5cda9559/5cda9559-3f91-4e54-bd95-58161cfe9b91/pep_boys_apple_pay.jpg"></a>
+              <a class="th" href="http://www.pepboys.com/" target="_blank"><img src="images/merchants/pep_boys.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Pep Boys</strong><br>
@@ -644,7 +644,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="https://order.pizzahut.com/home?" target="_blank"><img src="http://cdn.mallmaverick.com/system/stores/store_fronts/000/004/415/original/Pizza_Hut.png?1382110580"></a>
+              <a class="th" href="https://order.pizzahut.com/home?" target="_blank"><img src="images/merchants/pizza_hut.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Pizza Hut On the Boulevard</strong><br>
@@ -664,7 +664,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/295459_425964960789520_1447019438_n.jpg?oh=8d46705d74aa683b3d1b5de4333b2145&oe=56A4F70F">
+              <img class="th" src="images/merchants/posh.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Posh Nail Spa</strong><br>
@@ -677,7 +677,7 @@
           
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.primerowan.com/" target="_blank"><img src="http://www.primerowan.com/img/prime-logo.png"></a>
+              <a class="th" href="http://www.primerowan.com/" target="_blank"><img src="images/merchants/prime.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Prime Burger</strong><br>
@@ -689,7 +689,7 @@
             <div class="large-2 medium-2 columns picture">
               <a name="Q"></a>
               <a name="R"></a>
-              <a class="th" href="http://rowanbookstore.bncollege.com/" target="_blank"><img src="http://claycord.com/wp-content/uploads/2013/09/barnes.png"></a>
+              <a class="th" href="http://rowanbookstore.bncollege.com/" target="_blank"><img src="images/merchants/rowan_bookstore.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Rowan Bookstore Barnes & Noble</strong><br>
@@ -699,7 +699,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="https://pbs.twimg.com/profile_images/3539420241/a88ce44eed394772b9e68b2684338b61_400x400.jpeg"></a>
+              <img class="th" src="images/merchants/ry's.jpeg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Ry's Bagels</strong><br>
@@ -712,7 +712,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="https://pbs.twimg.com/profile_images/3539420241/a88ce44eed394772b9e68b2684338b61_400x400.jpeg"></a>
+              <img class="th" src="images/merchants/ry's.jpeg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Ry's Bagels On the Boulevard</strong><br>
@@ -723,7 +723,7 @@
           
             <div class="large-2 medium-2 columns picture">
               <a name="S"></a>
-              <a class="th" href="http://www.saladworks.com/" target="_blank"><img src="https://online.saladworks.com/Content/themes/saladworks/images/logo.png"></a>
+              <a class="th" href="http://www.saladworks.com/" target="_blank"><img src="images/merchants/saladworks.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Saladworks</strong><br>
@@ -733,7 +733,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.njsamuraisteakhouse.com/" target="_blank"><img src="http://s3-media1.fl.yelpcdn.com/bphoto/s1v2FHtLCM78EF1mZLAjMQ/o.jpg"></a>
+              <a class="th" href="http://www.njsamuraisteakhouse.com/" target="_blank"><img src="images/merchants/samurai.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Samurai Japanese Steak House</strong><br>
@@ -746,7 +746,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://smashburger.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/SmashBurger_logo.jpg"></a>
+              <a class="th" href="http://smashburger.com/" target="_blank"><img src="images/merchants/smashburger.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Smashburger</strong><br>
@@ -756,7 +756,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.sportclips.com" target="_blank"><img src="https://pbs.twimg.com/profile_images/1891473668/Facebook_800x800_Square_Avatar.jpg"></a>
+              <a class="th" href="http://www.sportclips.com" target="_blank"><img src="images/merchants/sport_clip.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Sport Clips</strong><br>
@@ -766,7 +766,7 @@
             </div> 
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.subway.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Subway_restaurant.svg/2000px-Subway_restaurant.svg.png"></a>
+              <a class="th" href="http://www.subway.com/" target="_blank"><img src="images/merchants/subway.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Subway</strong><br>
@@ -779,7 +779,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-0/p240x240/11817184_896894667053005_4716516465491944228_n.jpg?oh=a0264014a7a7a0dc27992a460ec000b7&oe=565EA629&__gda__=1449885703_7180482f127a2d202fe6ca1d3f6b9e9c">
+              <img class="th" src="images/merchants/sun_pay.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Sun Pay Beauty Supply</strong><br>
@@ -823,7 +823,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://tomosushi.menuasian.com/" target="_blank"><img src="https://scontent.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/578715_406289842739422_1489762676_n.jpg?oh=5512aa1c6488ee7e3c8627370453ef2a&oe=56A934B9"></a>
+              <a class="th" href="http://tomosushi.menuasian.com/" target="_blank"><img src="images/merchants/tomo_sushi.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Tomo Sushi</strong><br>
@@ -833,7 +833,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.treasuresonbroadway.com/" target="_blank"><img src="https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11058575_1113839458633053_7919616347795251694_n.jpg?oh=23e8ac01e5d10b8ba8a45d13708c569d&oe=56A8C1F5"></a>
+              <a class="th" href="http://www.treasuresonbroadway.com/" target="_blank"><img src="images/merchants/treasures.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Treasures on Broadway</strong><br>
@@ -849,7 +849,7 @@
               <a name="U"></a>
               <a name="V"></a>
               <a name="W"></a>
-              <a class="th" href="https://www.wendys.com/" target="_blank"><img src="https://www.marketbeat.com/logos/wendys-co-logo.jpg"></a>
+              <a class="th" href="https://www.wendys.com/" target="_blank"><img src="images/merchants/wendy's.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Wendy's</strong><br>
@@ -861,7 +861,7 @@
             <div class="large-2 medium-2 columns picture">
               <a name="X"></a>
               <a name="Y"></a>
-              <a class="th" href="http://www.yogofactory.com/" target="_blank"><img src="http://www.yogofactory.com/images/logo-full-purp-[Converted].png"></a>
+              <a class="th" href="http://www.yogofactory.com/" target="_blank"><img src="images/merchants/yogo.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Yogo Factory</strong><br>
@@ -872,7 +872,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="Z"></a>
-              <a class="th" href="http://www.shoprite.com/" target="_blank"><img src="http://nybc.net/wp-content/uploads/2015/05/ShopRite-Color-Logo.jpg"></a>
+              <a class="th" href="http://www.shoprite.com/" target="_blank"><img src="images/merchants/zallie's_shoprite.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Zallie's ShopRite</strong><br>
