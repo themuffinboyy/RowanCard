@@ -474,6 +474,17 @@
           <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="K"></a>
+              <img class="th" src="images/merchants/kennedy.png">
+            </div>
+            <div class="large-2 medium-2 end columns">
+              <p><strong>Kennedy's News Agency</strong><br>
+              <em>28 E. High St.</em><br>
+              <em>Glassboro, NJ 08028</em><br>
+              <em>(856) 881-1150</em></p>
+            </div>
+
+            <div class="large-2 medium-2 columns picture">
+              <a name="K"></a>
               <a class="th" href="http://www.kmart.com/" target="_blank"><img src="images/merchants/kmart.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -493,7 +504,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-6600</em></p>
             </div>
+          </div>
 
+          
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="https://www.littlebeefsonline.com/" target="_blank"><img src="images/merchants/little_beef's.png"></a>
             </div>
@@ -503,10 +517,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-6770</em></p>
             </div>
-          </div>
 
-          
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="images/merchants/little_sicily.jpg">
             </div>
@@ -527,7 +538,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-2311</em></p>
             </div>
+          </div>
 
+          
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.meineke.com/" target="_blank"><img src="images/merchants/meineke.png"></a>
             </div>
@@ -537,10 +551,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-2063</em></p>
             </div>
-          </div>
 
-          
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://minglokpitman.com/" target="_blank"><img src="images/merchants/ming_lok.jpg"></a>
             </div>
@@ -561,8 +572,11 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 256-9328</em></p>
             </div>
+          </div>
 
-            <div class="large-2 medium-2 columns picture">
+          
+          <div class="row">
+             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.nyitaliandelinj.com/" target="_blank"><img src="images/merchants/new_york_italian.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -571,10 +585,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 442-0202</em></p>
             </div>
-          </div>
 
-          
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://nickspizzaonline.com/" target="_blank"><img src="images/merchants/nick's.gif"></a>
             </div>
@@ -595,7 +606,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-1442</em></p>
             </div>
+          </div>
 
+
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="P"></a>
               <a class="th" href="https://www.papajohns.com/" target="_blank"><img src="images/merchants/papa_johns.png"></a>
@@ -606,10 +620,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-8383</em></p>
             </div>
-          </div>
 
-
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.pbsdiner.com/" target="_blank"><img src="images/merchants/pb's.jpg"></a>
             </div>
@@ -629,7 +640,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-4055</em></p>
             </div>
+          </div>
 
+
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.pepboys.com/" target="_blank"><img src="images/merchants/pep_boys.jpg"></a>
             </div>
@@ -639,10 +653,17 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 256-8000</em></p>
             </div>
-          </div>
 
+            <div class="large-2 medium-2 columns picture">
+              <a class="th" href="http://phillypretzelfactory.com/" target="_blank"><img src="images/merchants/philly_pretzel.png"></a>
+            </div>
+            <div class="large-2 medium-2 end columns">
+              <p><strong>Philly Pretzel Factory</strong><br>
+              <em>402 N. Delsea Dr.</em><br>
+              <em>Glassboro, NJ 08028</em><br>
+              <em>(856) 881-8881</em></p>
+            </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="https://order.pizzahut.com/home?" target="_blank"><img src="images/merchants/pizza_hut.png"></a>
             </div>
@@ -652,7 +673,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 307-7488</em></p>
             </div>
+          </div>
 
+          
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://popeyes.com/" target="_blank"><img src="images/merchants/popeyes.png"></a>
             </div>
@@ -663,7 +687,7 @@
               <em>(856) 243-2447</em></p>
             </div>
 
-            <div class="large-2 medium-2 columns picture">
+             <div class="large-2 medium-2 columns picture">
               <img class="th" src="images/merchants/posh.jpg">
             </div>
             <div class="large-2 medium-2 end columns">
@@ -672,10 +696,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 243-2296</em></p>
             </div>
-          </div>
 
-          
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.primerowan.com/" target="_blank"><img src="images/merchants/prime.png"></a>
             </div>
@@ -685,7 +706,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 243-2191</em></p>
             </div>
-          
+          </div>
+
+
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="Q"></a>
               <a name="R"></a>
@@ -698,7 +722,7 @@
               <em>(856) 881-5960</em></p>
             </div>
 
-            <div class="large-2 medium-2 columns picture">
+             <div class="large-2 medium-2 columns picture">
               <img class="th" src="images/merchants/ry's.jpeg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -707,10 +731,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 270-2575</em></p>
             </div>
-          </div>
 
-
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="images/merchants/ry's.jpeg"></a>
             </div>
@@ -720,7 +741,10 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 243-5347</em></p>
             </div>
-          
+          </div>
+
+
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="S"></a>
               <a class="th" href="http://www.saladworks.com/" target="_blank"><img src="images/merchants/saladworks.png"></a>
@@ -741,10 +765,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-7788</em></p>
             </div>
-          </div>
 
-
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://smashburger.com/" target="_blank"><img src="images/merchants/smashburger.jpg"></a>
             </div>
@@ -753,8 +774,11 @@
               <em>698 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 229-9393</em></p>
-            </div>
+            </div>        
+          </div>
 
+
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.sportclips.com" target="_blank"><img src="images/merchants/sport_clip.jpg"></a>
             </div>
@@ -763,7 +787,18 @@
               <em>694 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 956-3818</em></p>
-            </div> 
+            </div>  
+
+            <div class="large-2 medium-2 columns picture">
+              <a class="th" href="http://www.stevesgrilledcheese.com/" target="_blank"><img src="images/merchants/steves_grilled_cheese.png"></a>
+            </div>
+            <div class="large-2 medium-2 end columns">
+              <p><strong>Steve's Grilled Cheese</strong><br>
+              <em>22 E. High St.</em><br>
+              <em>Glassboro, NJ 08028</em><br>
+              <em>(856) 612-5524</em></p>
+            </div>  
+
 
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.subway.com/" target="_blank"><img src="images/merchants/subway.png"></a>
@@ -773,7 +808,7 @@
               <em>757 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 270-2513</em></p>
-            </div>           
+            </div>  
           </div>
 
 

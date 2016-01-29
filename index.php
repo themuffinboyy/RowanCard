@@ -34,7 +34,7 @@
             <div class="panel">
               <div class="row">
                 <div class="large-12 small-12 columns">
-                  <p>Welcome to the RowanCard porgram! Students, faculty, and staff can use this multi-purpose photo ID to enjoy
+                  <p>Welcome to the RowanCard program! Students, faculty, and staff can use this multi-purpose photo ID to enjoy
                   the convenience of purchasing power all over campus and around town without cash, checks, or coins. Each time you
                   use the RowanCard, the amount of the purchase is deducted from one of two accounts--Dining Dollars or 'Boro Bucks.</p>
 
@@ -51,7 +51,7 @@
         <a href="https://eacct-rowancard-sp.blackboard.com/eaccounts/AnonymousHome.aspx" class="button" target="_blank">Add funds</a>
       </div>
       <div class="large-4 columns push_right">
-        <a href="https://id.rowan.edu/" class="button" target="_blank">Find your ISO #</a>
+        <a href="https://id.rowan.edu/" class="button small_text" target="_blank">Find your RowanCard #</a>
       </div>
       <div class="large-4 columns end">
         <button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown tiny">Where to use card</button><br>

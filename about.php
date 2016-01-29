@@ -50,11 +50,11 @@
                 <p>Students can use their meal plan account to purchase food in either the Marketplace or from a "meal equivalent" 
                 menu in the other food venues around campus. If they go beyond their allocated meals, the university will automatically 
                 draw money from their Dining Dollar or 'Boro Bucks account. Dining Dollars can be used to purchase food at any on-campus 
-                food location in adition to a select number of merchants on Rowan Blvd.</p>
+                food location in addition to a select number of merchants on Rowan Blvd.</p>
 
                 <p>Setting up a meal plan is easy. Contact the Bursar's Office at (856) 256-4150 (option 2). Better yet, stop by in person 
                 to purchase a meal plan. The office is located in Savitz Hall on the ground level. Payment is required at the time of purchase.
-                Meal plans can be decreased through the second week of classes <strong>only</strong>.</p>
+                Meal plans can be decreased through the second week of classes <strong> only</strong>.</p>
 
                 <strong>RowanCard 'Boro Bucks Account</strong>
                 <p>Students can avoid carrying cash or credit cards by depositing money in their RowanCard 'Boro Bucks Account. 

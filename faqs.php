@@ -32,11 +32,13 @@
             <h1>Frequently Asked Questions</h1>
             <strong>How do I apply additional funds to my RowanCard?</strong>
             <p>Students cannot add Dining Dollars to their accounts, however, students, faculty, and staff can add 
-            money to their 'Boro Bucks account. To do so, you have the option of doing this on-line through Banner 
-            Self-Service if using financial aid credit, through your smart phone via the eAccounts app (in order 
-            to make a deposit from your smart phone, you must first do an initial deposit through the on-line system 
-            and save your payment method), in person at the Bursar's Office, or by sending a check payment to the Bursar's Office
-            at 201 Mullica Hill Rd., Glassboro, NJ 08028 (Please include the student's Banner ID number on the check).</p>
+            money to their 'Boro Bucks account. To do so, you must first have your Rowan ID made at the Information
+            Desk in order to activate your account. The fastest way to add funds is online through Banner Self-Service
+            using financial aid credit or a credit card. Once you have logged in, select Bursar Services then select
+            "Buy Boro Bucks" and follow the instructions. Please remember you need to have gotten your RowanCard prior
+            to adding funds. Family and relatives can make a guest deposit to a student's RowanCard by logging into
+            eAccounts and select guest deposit. A guest deposit will require the person to know the first and last name
+            of the student and their Rowan ID number.</p>
 
             <strong>Can I let someone borrow my card?</strong>
             <p>Rights and privileges associated with the card are non-transferable. Students, faculty, and staff should not 
@@ -66,7 +68,7 @@
 
             <strong>How do I close my account?</strong>
             <p>The funds in the 'Boro Bucks Account automatically roll over from one semester to the next and year to year. You may request
-            to close your 'Boro Bucks account at the end of any academic year by completing the clous-out form and submitting it to the
+            to close your 'Boro Bucks account at the end of any academic year by completing the close-out form and submitting it to the
             Bursar's Office. Upon withdrawal from school or termination of employment, the RowanCard 'Boro Bucks account will be closed and
             a refund will be issued for balances over $10.00. Graduating students with balances over $10.00 will receive a refund check.</p>
         	</div>

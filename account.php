@@ -31,14 +31,17 @@
         <div class="large-12 columns">
         	<div class="panel">
             <h1>Account Info</h1>
-            <p>You can draw upon four accouns when using the RowanCard -- the Meal Plan, Dining Dollars account, 'Boro Bucks account, and the
+            <p>You can draw upon four accounts when using the RowanCard -- the Meal Plan, Dining Dollars account, 'Boro Bucks account, and the
             Meal SV account (block meal plan holders only). Please be aware that Dining Dollars can only be used for food purchases on-campus 
             and at select Rowan Boulevard food locations. Dining Dollars expire at the end of each academic year. 'Boro Bucks can be used at 
             any food location as well as any other purchase wherever the RowanCard is accepted.</p>
 
-            <p>Students cannot add Dining Dollars to their accounts. You can, however, add money to the 'Boro Bucks account. To do so,
-            you have the option of doing this in person at the Bursar's Office, by sending a check payment to the office (referencing the
-            student's account number), on-line through student services, or through your smart phone by downloading the eAccounts app.</p>
+            <p>Students cannot add Dining Dollars to their accounts. You can, however, add money to the 'Boro Bucks account. To do so, you must
+            first have your Rowan ID made at the Information Desk in order to activate your account. The fastest way to add funds is online 
+            through Banner Self-Service using financial aid credit or a credit card. Once you have logged in, select Bursar Services then select
+            "Buy Boro Bucks" and follow the instructions. Please remember you need to have gotten your RowanCard prior to adding funds. 
+            Family and relatives can make a guest deposit to a student's RowanCard by logging into eAccounts and select guest deposit. 
+            A guest deposit will require the person to know the first and last name of the student and their Rowan ID number.</p>
             
             <strong>Check RowanCard Account Balances</strong>
             <p>There are two ways students can check RowanCard account balances:</p>
