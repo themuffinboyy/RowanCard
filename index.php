@@ -26,24 +26,24 @@
 
   <section id="rowancard_page">
     <div class="row card_header">
-      <div class="large-4 medium-4 columns">
+      <div class="large-2 medium-4 columns margin_right">
       	<img class="smaller" src="images/rowancard/rowancard_logo.jpg">
       </div>
-      <div class="large-8 medium-8 banner columns">
-          <div class="large-6 columns">
-            <div class="panel">
-              <p class="small_font">Welcome to the RowanCard program! Students, faculty, and staff can use this multi-purpose photo ID to enjoy
-              the convenience of purchasing power all over campus and around town without cash, checks, or coins. Each time you
-              use the RowanCard, the amount of the purchase is deducted from one of two accounts--Dining Dollars or 'Boro Bucks.</p>
+      <div class="large-3 medium-8 columns middle_text">
+        <div class="panel">
+          <p class="small_font">Welcome to the RowanCard program! Students, faculty, and staff can use this multi-purpose photo ID to enjoy
+          the convenience of purchasing power all over campus and around town without cash, checks, or coins. Each time you
+          use the RowanCard, the amount of the purchase is deducted from one of two accounts--Dining Dollars or 'Boro Bucks.</p>
 
-              <p class="small_font">Need to have your RowanCard made? Visit the Information Desk located in Chamberlain Student Center to have your
-              picture taken and to process your ID card.</p>
-            </div>
-          </div>
-          <div class="large-6 columns">
-            <a href="#"><img src="images/rowancard/rowan_bucks.jpg"></a>
-          </div>
+          <p class="small_font">Need to have your RowanCard made? Visit the Information Desk located in Chamberlain Student Center to have your
+          picture taken and to process your ID card.</p>
+        </div>
       </div>
+      <div class="large-6 columns big_image">
+        <a href="#"><img src="images/rowancard/rowan_bucks.jpg"></a>
+      </div>
+    </div>
+ 
     </div>
      <div class="row">
       <div class="large-4 columns push_right">

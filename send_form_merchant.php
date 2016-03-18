@@ -4,7 +4,7 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "rowancard@rowan.edu";
+    $email_to = "hollyj71@students.rowan.edu";
     $email_subject = "RowanCard Website Merchant Application";
      
     $business_name = $_POST['business_name'];
@@ -64,49 +64,105 @@ if(isset($_POST['email'])) {
       return str_replace($bad,"",$string);
  
     }
-    $email_message .= "Business Information \n";
-    $email_message .= "Name of Business: ".clean_string($business_name)."\n";
-    $email_message .= "Address: ".clean_string($business_address)."\n";
-    $email_message .= "City: ".clean_string($business_city)."\n";
-    $email_message .= "State: ".clean_string($business_state)."\n";
-    $email_message .= "Zip: ".clean_string($business_zip)."\n";
-    $email_message .= "Website: ".clean_string($website)."\n";
-    $email_message .= "Email Address: ".clean_string($email)."\n";
-    $email_message .= "Phone: ".clean_string($business_phone)."\n";
-    $email_message .= "Fax: ".clean_string($business_fax)."\n";
-    $email_message .= "# of years in business: ".clean_string($years_in_business)."\n";
-    $email_message .= "# of years at current location: ".clean_string($years_at_location)."\n";
-    $email_message .= "Alcohol Sales: ".clean_string($alcohol)."\n\n";
+    $email_message = 
+    "<h2>Online RowanCard Merchant Application</h2>
+    <h3>Business Information</h3>
+    <table>
+    <tr>
+    <td style='text-align: right'><strong>Name of Business: </strong></td>
+    <td>".clean_string($business_name)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Address: </strong></td>
+    <td>".clean_string($business_address)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>City: </strong></td>
+    <td>".clean_string($business_city)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>State: </strong></td>
+    <td>".clean_string($business_state)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Zip: </strong></td>
+    <td>".clean_string($business_zip)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Website: </strong></td>
+    <td>".clean_string($website)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Email Address: </strong></td>
+    <td>".clean_string($email)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Phone: </strong></td>
+    <td>".clean_string($business_phone)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Fax: </strong></td>
+    <td>".clean_string($business_fax)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong># of years in business: </strong></td>
+    <td>".clean_string($years_in_business)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong># of years at current location: </strong></td>
+    <td>".clean_string($years_at_location)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Alcohol Sales</strong></td>
+    <td>".clean_string($alcohol)."</td></tr></table>".
 
-    $email_message .= "Corporate/Billing Information \n";
-    $email_message .= "Name: ".clean_string($name)."\n";
-    $email_message .= "Address: ".clean_string($address)."\n";
-    $email_message .= "City: ".clean_string($city)."\n";
-    $email_message .= "State: ".clean_string($state)."\n";
-    $email_message .= "Zip: ".clean_string($zip)."\n";
-    $email_message .= "Phone: ".clean_string($phone)."\n";
-    $email_message .= "Fax: ".clean_string($fax)."\n\n";
+    "<h3>Corporate/Billing Information</h3>
+    <table>
+    <tr>
+    <td style='text-align: right'><strong>Name: </strong></td>
+    <td>".clean_string($name)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Address: </strong></td>
+    <td>".clean_string($address)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>City: </strong></td>
+    <td>".clean_string($city)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>State: </strong></td>
+    <td>".clean_string($state)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Zip: </strong></td>
+    <td>".clean_string($zip)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Phone: </strong></td>
+    <td>".clean_string($phone)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Fax: </strong></td>
+    <td>".clean_string($fax)."</td></tr></table>".
 
-    $email_message .= "Tax Information \n";
-    $email_message .= "Federal Tax ID #: ".clean_string($federal_tax)."\n";
-    $email_message .= "Corporate Entity: ".clean_string($corporate)."\n\n";
+    "<h3>Tax Information</h3>
+    <table>
+    <tr>
+    <td style='text-align: right'><strong>Federal Tax ID #: </strong></td>
+    <td>".clean_string($federal_tax)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Corportate Entity: </strong></td>
+    <td>".clean_string($corporate)."</td></tr></table>".
 
-    $email_message .= "Name and Title of Person Signing Agreement \n";
-    $email_message .= "Name: ".clean_string($person_name)."\n";
-    $email_message .= "Title: ".clean_string($person_title)."\n\n";
+    "<h3>Name and Title of Person Signing Agreement</h3>
+    <table>
+    <tr>
+    <td style='text-align: right'><strong>Name: </strong></td>
+    <td>".clean_string($person_name)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Title: </strong></td>
+    <td>".clean_string($person_title)."</td></tr></table>".
 
-    $email_message .= "About the Business \n";
-    $email_message .= "Category: ".clean_string($category)."\n";
-    $email_message .= "Food served? ".clean_string($food)."\n";
-    $email_message .= "Deliver? ".clean_string($deliver)."\n";    
+    "<h3>About the Business</h3>
+    <table>
+    <tr>
+    <td style='text-align: right'><strong>Category: </strong></td>
+    <td>".clean_string($category)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Food served? </strong></td>
+    <td>".clean_string($food)."</td></tr>".
+    "<tr>
+    <td style='text-align: right'><strong>Deliver?</strong></td>
+    <td>".clean_string($deliver)."</td></tr>";   
  
 // create email headers
  
-$headers = 'From: '.$email_from."\r\n".
- 
-'Reply-To: '.$email_from."\r\n" .
- 
-'X-Mailer: PHP/' . phpversion();
+$headers = 'From: '.$email_from."\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8"."\r\n";
  
 @mail($email_to, $email_subject, $email_message, $headers);  
  
