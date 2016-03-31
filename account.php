@@ -40,7 +40,7 @@
             first have your Rowan ID made at the Information Desk in order to activate your account. The fastest way to add funds is online 
             through Banner Self-Service using financial aid credit or a credit card. Once you have logged in, select Bursar Services then select
             "Buy Boro Bucks" and follow the instructions. Please remember you need to have gotten your RowanCard prior to adding funds. 
-            Family and relatives can make a guest deposit to a student's RowanCard by logging into eAccounts and select guest deposit. 
+            Family and relatives can make a guest deposit to a student's RowanCard by logging into <a href="//myrowancard.rowan.edu" target="_blank">eAccounts</a> and select guest deposit. 
             A guest deposit will require the person to know the first and last name of the student and their Rowan ID number.</p>
             
             <strong>Check RowanCard Account Balances</strong>

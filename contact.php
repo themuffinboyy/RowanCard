@@ -30,7 +30,7 @@
         <div class="panel">
           <h1 id="top-bar">Contact Us</h1>
           <p>Service is our top priority. Please contact the Card Services Office with any questions or concerns pertaining
-          to your RowanCard. The office is located on the ground level of the Chamberlain Student Center next to Xpress.</p>
+          to your RowanCard. The office is located on the upper level of the Chamberlain Student Center in room 203.</p>
           <hr>
           <div class="row">
             <div class="large-3 medium-9 columns">

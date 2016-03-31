@@ -2,9 +2,7 @@
  
 if(isset($_POST['email'])) {
  
-    // EDIT THE 2 LINES BELOW AS REQUIRED
- 
-    $email_to = "hollyj71@students.rowan.edu";
+    $email_to = "williamsje@rowan.edu";
     $email_subject = "RowanCard Website Merchant Application";
      
     $business_name = $_POST['business_name'];
@@ -66,101 +64,104 @@ if(isset($_POST['email'])) {
     }
     $email_message = 
     "<h2>Online RowanCard Merchant Application</h2>
-    <h3>Business Information</h3>
     <table>
+    <h3>Business Information</h3>
     <tr>
-    <td style='text-align: right'><strong>Name of Business: </strong></td>
-    <td>".clean_string($business_name)."</td></tr>".
+    <td width='25%' style='text-align: right'><strong>Name of Business: </strong></td>
+    <td width='75%'>".clean_string($business_name)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Address: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Address: </strong></td>
     <td>".clean_string($business_address)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>City: </strong></td>
+    <td width='25%' style='text-align: right'><strong>City: </strong></td>
     <td>".clean_string($business_city)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>State: </strong></td>
+    <td width='25%' style='text-align: right'><strong>State: </strong></td>
     <td>".clean_string($business_state)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Zip: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Zip: </strong></td>
     <td>".clean_string($business_zip)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Website: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Website: </strong></td>
     <td>".clean_string($website)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Email Address: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Email Address: </strong></td>
     <td>".clean_string($email)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Phone: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Phone: </strong></td>
     <td>".clean_string($business_phone)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Fax: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Fax: </strong></td>
     <td>".clean_string($business_fax)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong># of years in business: </strong></td>
+    <td width='25%' style='text-align: right'><strong># of years in business: </strong></td>
     <td>".clean_string($years_in_business)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong># of years at current location: </strong></td>
+    <td width='25%' style='text-align: right'><strong># of years at current location: </strong></td>
     <td>".clean_string($years_at_location)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Alcohol Sales</strong></td>
-    <td>".clean_string($alcohol)."</td></tr></table>".
+    <td width='25%' style='text-align: right'><strong>Alcohol Sales</strong></td>
+    <td>".clean_string($alcohol)."</td></tr>".
 
-    "<h3>Corporate/Billing Information</h3>
-    <table>
+    "<tr>
+    <td colspan='2'>
+    <h3>Corporate/Billing Information</h3></td></tr>
     <tr>
-    <td style='text-align: right'><strong>Name: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Name: </strong></td>
     <td>".clean_string($name)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Address: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Address: </strong></td>
     <td>".clean_string($address)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>City: </strong></td>
+    <td width='25%' style='text-align: right'><strong>City: </strong></td>
     <td>".clean_string($city)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>State: </strong></td>
+    <td width='25%' style='text-align: right'><strong>State: </strong></td>
     <td>".clean_string($state)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Zip: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Zip: </strong></td>
     <td>".clean_string($zip)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Phone: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Phone: </strong></td>
     <td>".clean_string($phone)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Fax: </strong></td>
-    <td>".clean_string($fax)."</td></tr></table>".
+    <td width='25%' style='text-align: right'><strong>Fax: </strong></td>
+    <td>".clean_string($fax)."</td></tr>".
 
-    "<h3>Tax Information</h3>
-    <table>
+    "<tr>
+    <td colspan='2'>
+    <h3>Tax Information</h3></td></tr>
     <tr>
-    <td style='text-align: right'><strong>Federal Tax ID #: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Federal Tax ID #: </strong></td>
     <td>".clean_string($federal_tax)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Corportate Entity: </strong></td>
-    <td>".clean_string($corporate)."</td></tr></table>".
+    <td width='25%' style='text-align: right'><strong>Corportate Entity: </strong></td>
+    <td>".clean_string($corporate)."</td></tr>".
 
-    "<h3>Name and Title of Person Signing Agreement</h3>
-    <table>
+    "<tr>
+    <td colspan='2'>
+    <h3>Name and Title of Person Signing Agreement</h3></td></tr>
     <tr>
-    <td style='text-align: right'><strong>Name: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Name: </strong></td>
     <td>".clean_string($person_name)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Title: </strong></td>
-    <td>".clean_string($person_title)."</td></tr></table>".
+    <td width='25%' style='text-align: right'><strong>Title: </strong></td>
+    <td>".clean_string($person_title)."</td></tr>".
 
-    "<h3>About the Business</h3>
-    <table>
+    "<tr>
+    <td colspan='2'>
+    <h3>About the Business</h3></td></tr>
     <tr>
-    <td style='text-align: right'><strong>Category: </strong></td>
+    <td width='25%' style='text-align: right'><strong>Category: </strong></td>
     <td>".clean_string($category)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Food served? </strong></td>
+    <td width='25%' style='text-align: right'><strong>Food served? </strong></td>
     <td>".clean_string($food)."</td></tr>".
     "<tr>
-    <td style='text-align: right'><strong>Deliver?</strong></td>
-    <td>".clean_string($deliver)."</td></tr>";   
+    <td width='25%' style='text-align: right'><strong>Deliver?</strong></td>
+    <td>".clean_string($deliver)."</td></tr></table>";   
  
 // create email headers
- 
 $headers = 'From: '.$email_from."\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8"."\r\n";
  
@@ -168,10 +169,7 @@ $headers .= "Content-type:text/html;charset=UTF-8"."\r\n";
  
 ?>
  
- 
- 
 <!-- include your own success html here -->
-
 <html>
   <head>
     <title>IU Webmaster redirect</title>
@@ -180,7 +178,5 @@ $headers .= "Content-type:text/html;charset=UTF-8"."\r\n";
 </html>
   
 <?php
- 
 }
- 
 ?>
