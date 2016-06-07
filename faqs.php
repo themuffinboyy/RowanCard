@@ -30,6 +30,9 @@
         <div class="large-12 columns">
         	<div class="panel">
             <h1>Frequently Asked Questions</h1>
+            <strong>How much does it cost to get a card?</strong>
+            <p>All Rowan students are billed $10 for their first RowanCard. Replacement cards can be purchased for $25
+                at the Chamberlain Student Center Information Desk.</p>
             <strong>How do I apply additional funds to my RowanCard?</strong>
             <p>Students cannot add Dining Dollars to their accounts, however, students, faculty, and staff can add 
             money to their 'Boro Bucks account. To do so, you must first have your Rowan ID made at the Information

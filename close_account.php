@@ -8,8 +8,8 @@
 <link rel="stylesheet" href="css/foundation.css" />
 <link rel="stylesheet" href="css/banner.css" />
 <link rel="stylesheet" href="css/rowanheader.css" />
-<link rel="stylesheet" href="css/employment.css" />
-<link rel="stylesheet" href="css/freeze.css">
+<link rel="stylesheet" href="css/contact.css" />
+<link rel="stylesheet" href="css/becomemerchant.css">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script>
 <script type="text/javascript" src="js/js_jnv80YOwCwlPiNZ0W1fOaWsUliw1fl3r-iYl0nsElnY.js"></script>
 <script type="text/javascript" src="js/js_jckA-4t9p22mBBR89owx6Ksvb40v5gsspPqsDK3Q0oM.js"></script>
@@ -23,25 +23,20 @@
 <script src="js/foundation.min.js"></script>
 </head>
 <body>
-  <?php include("header.html") ?>
-
-  <div id="freeze_page">
+  <?php include("header.html"); ?>
+  
+  <section id="become_page">
     <div class="row">
       <div class="large-12 columns">
-        <div class="panel">
-          <h1>What if I lose my card?</h1>
-          <p>You can freeze your RowanCard accounts on-line through the <a href="https://eacct-rowancard-sp.blackboard.com/eaccounts/AnonymousHome.aspx"
-          target="_blank">
-          myrowancard</a> site, from your smart phone via the eAccounts app or by calling 856-256-GONE to prevent unauthorized use of your card.</p>
-
-          <p>To replace a RowanCard, simply go to the Information Desk located in the Chamberlain Student Center during normal business 
-          hours to have a replacement card printed. Students are charged a replacement fee of $25. Contact the Card Services Office
-          (856-256-4531) to have your RowanCard reactivated once your replacement card is made.</p>
-        </div>
-      </div>
+        <iframe style="margin-right: auto; margin-left: auto; display: block;" src="https://docs.google.com/a/students.rowan.edu/forms/d/1RSVhbjgQwUi01yAJQek1vKbvqntJej2HuUS0ObyNSQQ/viewform?embedded=true" 
+        width="760" height="1230" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      </div>     
     </div>
+</section>
 
-    <?php include("rowancard_footer.html"); ?>
-  </div>
+<?php 
+  include("rowancard_footer.html");
+?>
+
 </body>
 </html>

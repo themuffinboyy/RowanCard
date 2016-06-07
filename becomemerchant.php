@@ -31,6 +31,31 @@
         <div class="panel">
           <h1 id="top-bar">Online Application</h1>
           <hr>
+
+          <p>The RowanCard is a discretionary spending program developed as a convenience for students, faculty, and staff at
+              Rowan University. Anyone with a RowanCard is able to purchase goods and services at participating merchants.
+              Funds are deposited into the RowanCard Debit account and presented to participating merchants for the sale
+              and funds are deducted from their account by using one of many devices.</p>
+
+              <p>In order to participate in the program, the merchant must take the following steps:<br>
+                <ul>
+                  <li>Complete the Merchant Application and be approved for participation by the university. The sale of alcohol is
+                    prohibited with the RowanCard and businesses whose primary purpose is the sale of alcohol or drug paraphernalia
+                    will not be approved. Also, please note that the Merchant Agreement prohibits marking up products purchased with
+                    the RowanCard. In addition, the purchase of prepaid cards of any kind is also prohibited with the RowanCard.</li>
+                  <li>Agree to the terms set forth in the contract.</li>
+                  <li>Purchase a VeriFone Vx570 (DSL connection) from Rowan University. The device costs approximately $375.00.</li>
+                  <li>Have the RowanCard Office program the VeriFone reader to accept RowanCard transactions. Installation of necessary
+                    DSL lines is the responsibility of the merchant.</li>
+                </ul>
+              </p>
+
+              <p>In exchange for the services provided by the university (including operation of card program, account management, advertising,
+                marketing, etc.) the merchant must agree to pay a service charge on RowanCard sales to the university. The university provides
+                payment for the product or service purchased, minus the service charge, to merchants on a monthly basis.</p>
+
+              <p>For more information, please call Christine Noon, RowanCard Program Administrator, at (856) 256-4531.</p>
+              
           <div class="row">
             <div class="large-6 large-centered columns">
               <div data-alert class="alert-box success radius hidden <?php echo htmlspecialchars($_GET["sent"]); ?>">

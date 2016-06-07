@@ -5,6 +5,7 @@ if(isset($_POST['email'])) {
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
     $email_to = "noon@rowan.edu";
+    $email_from = "RowanCard";
     $email_subject = "RowanCard Website Merchant Application";
      
     $business_name = $_POST['business_name'];
